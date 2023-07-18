@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **To-Do-List**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
 - ⚡ Fun fact **I am ambivert**
 
